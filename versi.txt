@@ -1,0 +1,10 @@
+VERSI 1.0 BETA December 28th 2016
+
+Versi 1.1  December 29th 2016
+*fix download url
+*upload max 15 megabyte
+*fix file or folder hide
+*login fill with email required
+
+
+
